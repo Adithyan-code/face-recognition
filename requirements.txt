@@ -1,0 +1,7 @@
+opencv-python
+face_recognition
+imutils
+picamera
+RPi.GPIO
+smbus2
+I2C_LCD_driver
